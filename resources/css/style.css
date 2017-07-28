@@ -1,6 +1,6 @@
 header {
   display: flex;
-  align-item: center;
+  align-items: : center;
   font-family: verdana;
   font-size: 14px;
   font-weight: bold;
@@ -12,4 +12,5 @@ header {
 }
 .logo span {
   color: mediumaquamarine;
+
 }
