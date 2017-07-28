@@ -8,9 +8,13 @@ header {
 
 .logo {
   display: flex;
+  align-items:center;
   color: mediumaquamarine;
 }
 .logo span {
   color: mediumaquamarine;
 
+}
+nav span {
+  display: inline-block;
 }
