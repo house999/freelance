@@ -18,11 +18,11 @@ header {
 .logo {
   display: flex;
   align-items:center;
+  flex-grow: 1;
   color: mediumaquamarine;
 }
 .logo span {
   color: mediumaquamarine;
-
 }
 nav span {
   display: inline-block;
