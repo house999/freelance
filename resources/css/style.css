@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  font-family: verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.logo {
+  display: flex;
+  color: mediumaquamarine;
+}
