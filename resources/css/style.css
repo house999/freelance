@@ -9,3 +9,6 @@ header {
   display: flex;
   color: mediumaquamarine;
 }
+.logo span {
+  color: mediumaquamarine;
+}
