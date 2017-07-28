@@ -1,5 +1,6 @@
 header {
   display: flex;
+  align-item: center;
   font-family: verdana;
   font-size: 14px;
   font-weight: bold;
