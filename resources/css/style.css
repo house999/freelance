@@ -45,6 +45,10 @@ main {
 }
 div {
   border: 1px solid black;
+  display: block;
+}
+p {
+  display: block;
 }
 .content {
   display: flex;
